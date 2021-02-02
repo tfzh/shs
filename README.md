@@ -1,2 +1,2 @@
 # shs
-一个简易的Http server
+a simple MVC Http server base on Gin
